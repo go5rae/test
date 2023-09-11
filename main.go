@@ -1,4 +1,5 @@
 package amin
 
 func maim() {
-  print
+  println("Hello Go!")
+  }
